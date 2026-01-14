@@ -1,0 +1,14 @@
+/Users/mikelleburnett/RiderProjects/ConsoleApp4/bin/Debug/net10.0/MissionTwoAssignment
+/Users/mikelleburnett/RiderProjects/ConsoleApp4/bin/Debug/net10.0/MissionTwoAssignment.deps.json
+/Users/mikelleburnett/RiderProjects/ConsoleApp4/bin/Debug/net10.0/MissionTwoAssignment.runtimeconfig.json
+/Users/mikelleburnett/RiderProjects/ConsoleApp4/bin/Debug/net10.0/MissionTwoAssignment.dll
+/Users/mikelleburnett/RiderProjects/ConsoleApp4/bin/Debug/net10.0/MissionTwoAssignment.pdb
+/Users/mikelleburnett/RiderProjects/ConsoleApp4/obj/Debug/net10.0/MissionTwoAssignment.GeneratedMSBuildEditorConfig.editorconfig
+/Users/mikelleburnett/RiderProjects/ConsoleApp4/obj/Debug/net10.0/MissionTwoAssignment.AssemblyInfoInputs.cache
+/Users/mikelleburnett/RiderProjects/ConsoleApp4/obj/Debug/net10.0/MissionTwoAssignment.AssemblyInfo.cs
+/Users/mikelleburnett/RiderProjects/ConsoleApp4/obj/Debug/net10.0/MissionTwoAssignment.csproj.CoreCompileInputs.cache
+/Users/mikelleburnett/RiderProjects/ConsoleApp4/obj/Debug/net10.0/MissionTwoAssignment.dll
+/Users/mikelleburnett/RiderProjects/ConsoleApp4/obj/Debug/net10.0/refint/MissionTwoAssignment.dll
+/Users/mikelleburnett/RiderProjects/ConsoleApp4/obj/Debug/net10.0/MissionTwoAssignment.pdb
+/Users/mikelleburnett/RiderProjects/ConsoleApp4/obj/Debug/net10.0/MissionTwoAssignment.genruntimeconfig.cache
+/Users/mikelleburnett/RiderProjects/ConsoleApp4/obj/Debug/net10.0/ref/MissionTwoAssignment.dll
